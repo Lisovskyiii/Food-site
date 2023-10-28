@@ -1,1 +1,1 @@
-# In this project I used Webpack, npm, Babel (coming soon). Used Fetch to exchange data between client and server. Also worked with ES6 Modules. Worked with Promise to process the received response from the server. Used Classes to template cards.
+# In this project I used Webpack, npm, Babel. Used Fetch to exchange data between client and server. Also worked with ES6 Modules. Worked with Promise to process the received response from the server. Used Classes to template cards.

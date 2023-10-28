@@ -1,5 +1,7 @@
 "use strict";
 
+require("es6-promise").polyfill();
+import "nodelist-foreach-polyfill";
 import tabs from "./modules/tabs";
 import modal from "./modules/modal";
 import forms from "./modules/forms";

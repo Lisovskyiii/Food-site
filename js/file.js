@@ -33,6 +33,6 @@ window.addEventListener("DOMContentLoaded", () => {
     currentCounter: "#current",
   });
   calc();
-  timer(".timer", "2023-11-03");
+  timer(".timer", "2024-06-01");
   cards();
 });
